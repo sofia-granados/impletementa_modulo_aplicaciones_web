@@ -1,2 +1,2 @@
-# impletementa_modulo_aplicaciones_web
+# implementa_modulo_aplicaciones_web
 contenido, secuencias didacticas, etc
